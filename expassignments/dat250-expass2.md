@@ -8,7 +8,7 @@ In particular, you should write about:
 
 - any pending issues with this assignment that you did not manage to solve
 
-# Raport expass2
+# Report expass2
 
 ## Technical problems encountered
 
