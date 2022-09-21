@@ -114,7 +114,7 @@ In my implementation below, I get a calculation sum of all quantity of products 
 
 <details>
 <summary><b>Experiment 2 own execution</b></summary>
-<img width="463" alt="Experiment 2 own execution" src="https://user-images.githubusercontent.com/111968598/191617395-f800e5aa-b2c6-45e3-a01d-95cb5d4e3904.png">
+<img width="531" alt="Screen Shot 2022-09-22 at 12 02 16 AM" src="https://user-images.githubusercontent.com/111968598/191618484-da0f18e4-4fd1-4bed-ba7d-f810f0dfd908.png">
 </details>
 
 ## Pending issues
