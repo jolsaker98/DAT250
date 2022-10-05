@@ -12,4 +12,4 @@ The hand-in should be written in English.
 
 ## Links to Github repos
 
-[experiemnt 1](vg.no)
+[Experiment 1: Getting started](https://github.com/jolsaker98/Dat250-expass5-experiment1)
