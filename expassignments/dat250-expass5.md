@@ -9,3 +9,7 @@ In particular, you should write about:
 - any pending issues with this assignment which you did not manage to solve
 
 The hand-in should be written in English.
+
+## Links to Github repos
+
+ <details><summary>Hallo</summary></details>
