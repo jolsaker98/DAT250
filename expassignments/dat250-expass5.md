@@ -12,4 +12,4 @@ The hand-in should be written in English.
 
 ## Links to Github repos
 
- <details><summary>Hallo</summary></details>
+[experiemnt 1](vg.no)
