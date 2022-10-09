@@ -10,6 +10,9 @@ In particular, you should write about:
 
 The hand-in should be written in English.
 
+## Technical issues
+No technical issues or pending issues with the assignment
+
 ## Links to Github repos
 
 [Experiment 1: Getting started](https://github.com/jolsaker98/Dat250-expass5-experiment1)<br>
