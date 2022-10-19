@@ -14,6 +14,16 @@
 
 ## Experiment 2: Hello World
 
+<details>
+  <summary>Sent message</summary>
+  <img width="838" alt="Screen Shot 2022-10-19 at 11 21 36 PM" src="https://user-images.githubusercontent.com/111968598/196807132-cc214257-0e97-40e0-aa69-96f0a2d628e4.png">
+</details>
+  
+<details>
+  <summary>Received message</summary>
+  <img width="801" alt="Screen Shot 2022-10-19 at 11 21 45 PM" src="https://user-images.githubusercontent.com/111968598/196807110-3ade4e26-7314-419c-8a6f-f37795eda88c.png">
+</details>
+
 
 ## Experiment 3: Queue messaging
 
