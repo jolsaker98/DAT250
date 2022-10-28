@@ -63,4 +63,8 @@
 
 [Repo Link](https://github.com/jolsaker98/Expassign7)
 
+## Issues
+
+No technical issues or pending issues with assignment
+
 
